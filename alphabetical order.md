@@ -57,7 +57,7 @@
 57. The Rising Of The Shield Hero
 58. The Slime Diaries: That Time I Got Reincarnated as a Slime
 59. The Yakuza's Guide to Babysitting
-60. To Your Eternity (fav)
+60. To Your Eternity
 61. Tsukimichi: Moonlit Fantasy
 62. Yokai Watch
 63. Zom 100: Bucket List of the Dead
