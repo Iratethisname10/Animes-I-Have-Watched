@@ -1,5 +1,3 @@
-### [Favourites](https://github.com/Iratethisname10/Animes-I-Have-Watched/blob/main/Favourites.md)
-
 1. Angels of Death
 2. Arifureta: From Commonplace To World's Strongest
 3. Arrietty
@@ -64,3 +62,5 @@
 62. Tsukimichi: Moonlit Fantasy
 63. Yokai Watch
 64. Zom 100: Bucket List of the Dead
+
+### [Favourites](https://github.com/Iratethisname10/Animes-I-Have-Watched/blob/main/Favourites.md)
