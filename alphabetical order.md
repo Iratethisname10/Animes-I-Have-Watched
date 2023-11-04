@@ -63,4 +63,4 @@
 63. Yokai Watch
 64. Zom 100: Bucket List of the Dead
 
-### [Favourites](https://github.com/Iratethisname10/Animes-I-Have-Watched/blob/main/Favourites.md)
+### [Favourites](https://github.com/Iratethisname10/Animes-I-Have-Watched/blob/main/favourites.md)
