@@ -1,3 +1,5 @@
+### [Favourites](https://github.com/Iratethisname10/Animes-I-Have-Watched/blob/main/Favourites.md)
+
 1. Angels of Death
 2. Arifureta: From Commonplace To World's Strongest
 3. Arrietty
