@@ -81,7 +81,8 @@
 81. Tsukimichi: Moonlit Fantasy
 82. Vermeil in Gold
 83. Villainess Level 99
-84. Yokai Watch
-85. Zom 100: Bucket List of the Dead
+84. Wind Breaker
+85. Yokai Watch
+86. Zom 100: Bucket List of the Dead
 
 ### [click to see my favorites](https://github.com/Iratethisname10/Animes-I-Have-Watched/blob/main/favourites.md)
