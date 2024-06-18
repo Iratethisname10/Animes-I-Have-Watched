@@ -63,26 +63,27 @@
 63. Spy × Family
 64. Sword Art Online
 65. Sword Art Online Alternative Gun Gale Online
-66. That Time I Got Reincarnated as a Slime
-67. The Angel Next Door Spoils Me Rotten
-68. The Apothecary Diaries
-69. The Demon Sword Master of Excalibur Academy
-70. The Eminence in Shadow
-71. The Fruit of Grisaia
-72. The Greatest Demon Lord Is Reborn as a Typical Nobody
-73. The Ice Guy and His Cool Female Colleague
-74. The Kingdoms of Ruin
-75. The Misfit of Demon King Academy
-76. The Rising Of The Shield Hero
-77. The Slime Diaries: That Time I Got Reincarnated as a Slime
-78. The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
-79. The Yakuza's Guide to Babysitting
-80. To Your Eternity
-81. Tsukimichi: Moonlit Fantasy
-82. Vermeil in Gold
-83. Villainess Level 99
-84. Wind Breaker
-85. Yokai Watch
-86. Zom 100: Bucket List of the Dead
+66. Talentless Nana
+67. That Time I Got Reincarnated as a Slime
+68. The Angel Next Door Spoils Me Rotten
+69. The Apothecary Diaries
+70. The Demon Sword Master of Excalibur Academy
+71. The Eminence in Shadow
+72. The Fruit of Grisaia
+73. The Greatest Demon Lord Is Reborn as a Typical Nobody
+74. The Ice Guy and His Cool Female Colleague
+75. The Kingdoms of Ruin
+76. The Misfit of Demon King Academy
+77. The Rising Of The Shield Hero
+78. The Slime Diaries: That Time I Got Reincarnated as a Slime
+79. The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
+80. The Yakuza's Guide to Babysitting
+81. To Your Eternity
+82. Tsukimichi: Moonlit Fantasy
+83. Vermeil in Gold
+84. Villainess Level 99
+85. Wind Breaker
+86. Yokai Watch
+87. Zom 100: Bucket List of the Dead
 
 ### [click to see my favorites](https://github.com/Iratethisname10/Animes-I-Have-Watched/blob/main/favourites.md)
