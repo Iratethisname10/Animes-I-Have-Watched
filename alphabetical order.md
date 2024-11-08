@@ -71,19 +71,20 @@
 71. The Eminence in Shadow
 72. The Fruit of Grisaia
 73. The Greatest Demon Lord Is Reborn as a Typical Nobody
-74. The Ice Guy and His Cool Female Colleague
-75. The Kingdoms of Ruin
-76. The Misfit of Demon King Academy
-77. The Rising Of The Shield Hero
-78. The Slime Diaries: That Time I Got Reincarnated as a Slime
-79. The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
-80. The Yakuza's Guide to Babysitting
-81. To Your Eternity
-82. Tsukimichi: Moonlit Fantasy
-83. Vermeil in Gold
-84. Villainess Level 99
-85. Wind Breaker
-86. Yokai Watch
-87. Zom 100: Bucket List of the Dead
+74. The Healer Who Was Banished From His Party, Is, in Fact, the Strongest
+75. The Ice Guy and His Cool Female Colleague
+76. The Kingdoms of Ruin
+77. The Misfit of Demon King Academy
+78. The Rising Of The Shield Hero
+79. The Slime Diaries: That Time I Got Reincarnated as a Slime
+80. The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
+81. The Yakuza's Guide to Babysitting
+82. To Your Eternity
+83. Tsukimichi: Moonlit Fantasy
+84. Vermeil in Gold
+85. Villainess Level 99
+86. Wind Breaker
+87. Yokai Watch
+88. Zom 100: Bucket List of the Dead
 
 ### [click to see my favorites](https://github.com/Iratethisname10/Animes-I-Have-Watched/blob/main/favourites.md)
