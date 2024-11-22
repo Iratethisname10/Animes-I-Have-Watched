@@ -10,81 +10,82 @@
 10. Campfire Cooking in Another World with My Absurd Skill
 11. Cautious Hero: The Hero Is Overpowered but Overly Cautious
 12. Cells at Work!
-13. Chillin' in Another World with Level 2 Super Cheat Powers
-14. Chronicles of an Aristocrat Reborn in Another World
-15. Classroom for Heroes
-16. Darling In The Franxx
-17. Dead Mount Death Play
-18. Death Note
-19. Delicious in Dungeon World Guide: The Adventurer's Bible
-20. Don't Toy With Me, Miss Nagatoro
-21. Farming Life in Another World
-22. Fate/Apocrypha
-23. Fieren: Frieren: Beyond Journey's End
-24. Gushing over Magical Girls
-25. Hell's Paradise: Jigokuraku
-26. Horimiya
-27. How a Realist Hero Rebuilt the Kingdom
-28. How Not to Summon a Demon Lord
-29. I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too
-30. I Somehow Got Strong By Raising Skills Related To Farming
-31. I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability
-32. I'm Quitting Heroing
-33. In Another World With My Smartphone
-34. Is It Wrong to Try to Pick Up Girls in a Dungeon?
-35. Kaguya-sama: Love Is War
-36. Kakegurui
-37. Komi Can't Communicate
-38. KonoSuba: An Explosion on This Wonderful World!
-39. Konosuba: God's Blessing on This Wonderful World!
-40. Lycoris Recoil
-41. Mashle: Magic and Muscles
-42. Mieruko-chan
-43. Miss Kobayashi's Dragon Maid
-44. My Instant Death Ability Is So Overpowered
-45. My Isekai Life
-46. My Neighbor Totoro
-47. Natsume's Book of Friends
-48. NOBLESSE: Awakening
-49. One-Punch Man
-50. Onimai: I'm Now Your Sister!
-51. Oshi no Ko
-52. Platinum End
-53. Plunderer
-54. Rascal Does Not Dream Of Bunny Girl Senpai
-55. Re:Zero
-56. Redo of Healer
-57. Reincarnated as a Sword
-58. Ron Kamonohashi's Forbidden Deduction
-59. Sasaki and Peeps
-60. Seven Deadly Sins
-61. Solo Leveling
-62. Spirited Away
-63. Spy × Family
-64. Sword Art Online
-65. Sword Art Online Alternative Gun Gale Online
-66. Talentless Nana
-67. That Time I Got Reincarnated as a Slime
-68. The Angel Next Door Spoils Me Rotten
-69. The Apothecary Diaries
-70. The Demon Sword Master of Excalibur Academy
-71. The Eminence in Shadow
-72. The Fruit of Grisaia
-73. The Greatest Demon Lord Is Reborn as a Typical Nobody
-74. The Healer Who Was Banished From His Party, Is, in Fact, the Strongest
-75. The Ice Guy and His Cool Female Colleague
-76. The Kingdoms of Ruin
-77. The Misfit of Demon King Academy
-78. The Rising Of The Shield Hero
-79. The Slime Diaries: That Time I Got Reincarnated as a Slime
-80. The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
-81. The Yakuza's Guide to Babysitting
-82. To Your Eternity
-83. Tsukimichi: Moonlit Fantasy
-84. Vermeil in Gold
-85. Villainess Level 99
-86. Wind Breaker
-87. Yokai Watch
-88. Zom 100: Bucket List of the Dead
+13. Chainsaw Man
+14. Chillin' in Another World with Level 2 Super Cheat Powers
+15. Chronicles of an Aristocrat Reborn in Another World
+16. Classroom for Heroes
+17. Darling In The Franxx
+18. Dead Mount Death Play
+19. Death Note
+20. Delicious in Dungeon World Guide: The Adventurer's Bible
+21. Don't Toy With Me, Miss Nagatoro
+22. Farming Life in Another World
+23. Fate/Apocrypha
+24. Fieren: Frieren: Beyond Journey's End
+25. Gushing over Magical Girls
+26. Hell's Paradise: Jigokuraku
+27. Horimiya
+28. How a Realist Hero Rebuilt the Kingdom
+29. How Not to Summon a Demon Lord
+30. I Got a Cheat Skill in Another World and Became Unrivaled in the Real World, Too
+31. I Somehow Got Strong By Raising Skills Related To Farming
+32. I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability
+33. I'm Quitting Heroing
+34. In Another World With My Smartphone
+35. Is It Wrong to Try to Pick Up Girls in a Dungeon?
+36. Kaguya-sama: Love Is War
+37. Kakegurui
+38. Komi Can't Communicate
+39. KonoSuba: An Explosion on This Wonderful World!
+40. Konosuba: God's Blessing on This Wonderful World!
+41. Lycoris Recoil
+42. Mashle: Magic and Muscles
+43. Mieruko-chan
+44. Miss Kobayashi's Dragon Maid
+45. My Instant Death Ability Is So Overpowered
+46. My Isekai Life
+47. My Neighbor Totoro
+48. Natsume's Book of Friends
+49. NOBLESSE: Awakening
+50. One-Punch Man
+51. Onimai: I'm Now Your Sister!
+52. Oshi no Ko
+53. Platinum End
+54. Plunderer
+55. Rascal Does Not Dream Of Bunny Girl Senpai
+56. Re:Zero
+57. Redo of Healer
+58. Reincarnated as a Sword
+59. Ron Kamonohashi's Forbidden Deduction
+60. Sasaki and Peeps
+61. Seven Deadly Sins
+62. Solo Leveling
+63. Spirited Away
+64. Spy × Family
+65. Sword Art Online
+66. Sword Art Online Alternative Gun Gale Online
+67. Talentless Nana
+68. That Time I Got Reincarnated as a Slime
+69. The Angel Next Door Spoils Me Rotten
+70. The Apothecary Diaries
+71. The Demon Sword Master of Excalibur Academy
+72. The Eminence in Shadow
+73. The Fruit of Grisaia
+74. The Greatest Demon Lord Is Reborn as a Typical Nobody
+75. The Healer Who Was Banished From His Party, Is, in Fact, the Strongest
+76. The Ice Guy and His Cool Female Colleague
+77. The Kingdoms of Ruin
+78. The Misfit of Demon King Academy
+79. The Rising Of The Shield Hero
+80. The Slime Diaries: That Time I Got Reincarnated as a Slime
+81. The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat
+82. The Yakuza's Guide to Babysitting
+83. To Your Eternity
+84. Tsukimichi: Moonlit Fantasy
+85. Vermeil in Gold
+86. Villainess Level 99
+87. Wind Breaker
+88. Yokai Watch
+89. Zom 100: Bucket List of the Dead
 
 ### [click to see my favorites](https://github.com/Iratethisname10/Animes-I-Have-Watched/blob/main/favourites.md)
